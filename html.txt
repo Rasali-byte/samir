@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GitHub VS Code Test</title>
+</head>
+<body>
+  <h1>Hello, GitHub!</h1>
+  <p>This is a test file to check if GitHub is connected to VS Code properly.</p>
+</body>
+</html>
